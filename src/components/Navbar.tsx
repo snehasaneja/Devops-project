@@ -30,7 +30,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentTab, setCurrentTab, onOpe
             </div>
             <div>
               <div className="flex items-center gap-1.5">
-                <span className="font-outfit text-xl font-bold tracking-tight text-slate-900">BookMyEvents</span>
+                <span className="font-outfit text-xl font-bold tracking-tight text-slate-900">ABC Events</span>
                 <span className="text-xs font-semibold px-2 py-0.5 rounded-full bg-blue-100 text-blue-700 border border-blue-200">Portal</span>
               </div>
               <p className="text-xs text-slate-500 font-medium">Smart Event Management System</p>
